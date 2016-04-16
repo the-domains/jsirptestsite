@@ -22,8 +22,8 @@ inLanguage: en
 app_links: []
 isBasedOnUrl: 'http://www.lci1.com/'
 title: Lippert Components the leading OEM and Aftermarket RV Parts and Accessory Supplier
-datePublished: '2016-04-16T04:47:28.491Z'
-dateModified: '2016-04-16T04:43:58.276Z'
+datePublished: '2016-04-16T04:47:29.058Z'
+dateModified: '2016-04-16T04:43:17.668Z'
 sourcePath: _posts/2016-04-16-lippert-components-the-leading-oem-and-aftermarket-rv-parts.md
 published: true
 inFeed: true
