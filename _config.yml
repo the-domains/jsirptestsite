@@ -2,6 +2,7 @@ name: jsirptestsite
 favicon: null
 layout_spectrum: 0.24119
 typography_spectrum: 0.74458
+title: Test Site
 cta:
   domain: null
   bucket: null
